@@ -170,6 +170,9 @@ python scripts/get_vendor_summary.py
 👨‍💻 Author
 
 Zaid Alam
-(Data Analyst & Machine Learning Enthusiast)
 
+_(Data Analyst & Machine Learning Enthusiast)_
 
+📧 zaidalam49@gmail.com
+
+🌐 https://www.linkedin.com/in/zaid-alam98/
