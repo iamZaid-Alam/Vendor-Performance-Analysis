@@ -176,3 +176,5 @@ _(Data Analyst & Machine Learning Enthusiast)_
 📧 zaidalam49@gmail.com
 
 🌐 https://www.linkedin.com/in/zaid-alam98/
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iamzaidalam)
