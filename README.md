@@ -173,8 +173,6 @@ Zaid Alam
 
 _(Data Analyst & Machine Learning Enthusiast)_
 
-📧 zaidalam49@gmail.com
-
-🌐 https://www.linkedin.com/in/zaid-alam98/
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidalam49@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-alam98/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iamzaidalam)
