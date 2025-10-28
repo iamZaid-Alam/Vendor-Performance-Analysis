@@ -62,6 +62,7 @@ Effective inventory and sales management are critical in the retail sector. This
 - GitHub
 
 ---
+<!--
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 ```
@@ -83,7 +84,7 @@ vendor-performance-analysis/
 ├── dashboard/                  # Power BI dashboard file
 │   └── vendor_performance_dashboard.pbix
 ```
-
+-->
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
